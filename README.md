@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm ... from .... Ireland<br><br>- 🔭 I have a passion for problem solving and the creative potential of software<br>- 📚 I'm currently a student at ISE in Univeristy of Limerick</p>
+<p align="left">🔭 I have a passion for problem solving and the creative potential of software<br>- 📚 I'm currently a student at ISE in Univeristy of Limerick</p>
 
 ###
 
@@ -37,7 +37,7 @@
 <div align="center">
   
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+ 
   <img width="12" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
