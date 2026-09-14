@@ -18,19 +18,19 @@
 
 ###
 
-<h1 align="center">Hey 👋</h1>
+<h1 align="center">Hey</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">About Me</h3>
 
 ###
 
-<p align="left">🔭 I have a passion for problem solving and the creative potential of software<br>- 📚 I'm currently a student at ISE in Univeristy of Limerick</p>
+<p align="left">I have a passion for problem solving and the creative potential of software<br>- I'm currently a student at ISE in Univeristy of Limerick</p>
 
 ###
 
-<h3 align="left">🛠 Languages and Tools</h3>
+<h3 align="left">Languages and Tools</h3>
 
 ###
 
@@ -42,7 +42,8 @@
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch logo" />
+  <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
